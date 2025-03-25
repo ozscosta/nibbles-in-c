@@ -1,1 +1,1 @@
-# Jogo da cobrinha, em C (texto puro)
+# Jogo da cobrinha, em C (text mode)
